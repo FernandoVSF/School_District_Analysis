@@ -39,9 +39,3 @@ Major changes in the updated schoool district analysis were:
   - Thomas High School Average Reading Score came from 83.8 to 83.9
   
 The fact the the average scores were unchanged, and the % Passig Rate Decreased make us believe there are good chances in having alterations in the Non-Passing scores only, specially in readig.
-
-  
-  
-  
-   
-   
